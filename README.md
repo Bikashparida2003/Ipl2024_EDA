@@ -16,8 +16,11 @@ Analysing 2024 IPL Data and finding Valueable insights.
 ## Process
 - Verify data for any missing values and anomalies In excel.
 - made sure data is consistent and clean with respect to data type and value used.
-- Import CSV File to Jupyter Notebook
+- Imported CSV File to Jupyter Notebook
 - Visualizing Data using Pandas, Matplotlib and Seaborn
+
+- ## Analysis
+- - <a href="https://github.com/Bikashparida2003/Ipl2024_EDA/blob/main/ipl_data.csv">Analysis</a>
 
 
 
