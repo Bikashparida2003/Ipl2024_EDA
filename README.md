@@ -14,10 +14,11 @@ Analysing 2024 IPL Data and finding Valueable insights.
 - Find the teams who had won the toss also won the match?
 
 ## Process
-- Verify data for any missing values and anomalies In excel.
+- Verify data for any missing values and anomalies In CSV File.
 - made sure data is consistent and clean with respect to data type and value used.
 - Imported CSV File to Jupyter Notebook
-- Visualizing Data using Pandas, Matplotlib and Seaborn
+- Visualizing Data using Pandas, Matplotlib and Seaborn.
+- ploting Different Chats.
 
 - ## Analysis
 - - <a href="https://github.com/Bikashparida2003/Ipl2024_EDA/blob/main/Ipl_data.ipynb">EDA</a>
