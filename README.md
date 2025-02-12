@@ -20,7 +20,7 @@ Analysing 2024 IPL Data and finding Valueable insights.
 - Visualizing Data using Pandas, Matplotlib and Seaborn
 
 - ## Analysis
-- - <a href="https://github.com/Bikashparida2003/Ipl2024_EDA/blob/main/Ipl_data.ipynb">Analysis</a>
+- - <a href="https://github.com/Bikashparida2003/Ipl2024_EDA/blob/main/Ipl_data.ipynb">EDA</a>
 
 
 
